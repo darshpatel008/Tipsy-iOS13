@@ -23,3 +23,4 @@ Enter the bill amount, tip percentage, and number of people to calculate each pe
 
 Tipsy is a practical app that introduces beginners to handling calculations, sliders, and user input in Swift. It’s a great example of building a useful, everyday tool with a smooth and responsive user interface.
 
+https://github.com/user-attachments/assets/2fd96d12-130e-42c9-b3cc-1511ca46ce4b
